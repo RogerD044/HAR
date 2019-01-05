@@ -22,6 +22,7 @@ Train Data:
 - 'UCI_HAR_dataset/train/X_train.txt'
 - 'UCI_HAR_dataset/train/subject_train.txt'
 - 'UCI_HAR_dataset/train/y_train.txt'
+
 Test Data:
 - 'UCI_HAR_dataset/test/X_test.txt'
 - 'UCI_HAR_dataset/test/subject_test.txt'
